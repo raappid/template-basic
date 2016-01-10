@@ -24,6 +24,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "cross-spawn-async": "^2.1.6",
     "minimist": "^1.2.0",
     "typescript": "^1.7"
   },
