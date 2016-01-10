@@ -28,7 +28,7 @@
     "typescript": "^1.7"
   },
   "scripts": {
-    "install-deps": "node scripts/install.js",
+    "postinstall": "node scripts/install-other-deps.js",
     "clean": "node scripts/clean.js",
     "build": "node scripts/build.js",
     "build-release": "npm run build release",
