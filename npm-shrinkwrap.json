@@ -1,6 +1,6 @@
 {
   "name": "template-basic",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "dependencies": {
     "cross-spawn-async": {
       "version": "2.1.6",
